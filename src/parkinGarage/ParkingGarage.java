@@ -30,9 +30,7 @@ public class ParkingGarage { // parking garage class that includes the main meth
         // parking cars in available spots
 
         pLot.parkCar("ABC123");
-
         pLot.parkCar("ABC1233545");
-
         pLot.parkCar("ABC2424123");
 
         // displaying available spots after parking
